@@ -1,3 +1,12 @@
+# https://intellipaat.com/community/31672/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project
+# D:\!DATA\!github\cascadia-code\env
+
+# python -m pip install --upgrade pip
+# python -m pip install -U pip setuptools
+
+# pip3 install -r ..\requirements.txt
+# pip-compile -U requirements.in
+
 import argparse
 import multiprocessing
 import multiprocessing.pool
